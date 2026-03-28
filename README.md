@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&width=435&lines=Python+%7C+Django+%7C+Node.js;FTTH+%7C+IoT+%7C+Automação;60%2B+Projetos+Entregues;6+Anos+de+Experiência)
 # 👋 Olá, sou Akiles Simião!
 
 ## 🚀 Desenvolvedor Fullstack | Infraestrutura FTTH | IoT | Founder LDT NET TELECOM
