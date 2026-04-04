@@ -161,7 +161,7 @@ Unir excelência técnica com visão de negócios para entregar soluções escal
 |-------|------|
 | 💼 LinkedIn | [linkedin.com/in/akilessimiao](https://linkedin.com/in/akilessimiao) |
 | 🌐 Portfólio | [akilessimiao.github.io/portifolio](https://akilessimiao.github.io/portifolio) |
-| 🏢 LDT NET TELECOM | [ldtnettelecom.com.br](https://ldtnettelecom.com.br) |
+| 🏢 LDT NET TELECOM | [ldtnettelecom.com.br](https://tanquedigital.com.br) |
 | 🏢 Tanque Digital | [tanquedigital.com.br](https://tanquedigital.com.br) |
 | 📱 WhatsApp | [(84) 99455-4714](https://wa.me/5584994554714) |
 | ✉️ Email | ldtnettelecom@gmail.com |
