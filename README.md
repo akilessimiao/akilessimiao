@@ -6,7 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-ldtnettelecom@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ldtnettelecom@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-(84)99455--4714-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5584994554714)
 [![Site](https://img.shields.io/badge/Site-Portfólio-2563EB?style=for-the-badge&logo=website&logoColor=white)](https://akilessimiao.github.io/portifolio)
-[![LDT NET](https://img.shields.io/badge/LDT_NET_TELECOM-Founder-10B981?style=for-the-badge&logo=router&logoColor=white)](https://ldtnettelecom.com.br)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&width=435&lines=Python+%7C+Django+%7C+Node.js;FTTH+%7C+IoT+%7C+Automação;60%2B+Projetos+Entregues;6+Anos+de+Experiência)
 
@@ -114,6 +113,20 @@ Unir excelência técnica com visão de negócios para entregar soluções escal
 > 📊 **Resultado:** Conformidade com LGPD e segurança de dados  
 > 🔗 [Ver Projeto](https://github.com/akilessimiao/gestao-cyberseguranca)
 
+### 📘 Login Social com Facebook OAuth
+> Sistema de autenticação integrado com Facebook Login, permitindo login rápido e seguro via OAuth 2.0.
+> 
+> 🔧 **Stack:** Python + Django + Facebook Graph API + OAuth 2.0  
+> 📊 **Resultado:** Redução de 60% no tempo de cadastro de novos usuários  
+> 🔗 [Ver Projeto](https://github.com/akilessimiao/facebook-oauth-login)
+
+### ✈️ Landing Page de Turismo com Automação e Vouchers
+> Landing page completa para agência de turismo com sistema de automação de reservas, geração de vouchers e integração com WhatsApp.
+> 
+> 🔧 **Stack:** HTML5 + CSS3 + JavaScript + Python + WhatsApp API  
+> 📊 **Resultado:** Aumento de 45% nas conversões e automação de 80% do processo de reservas  
+> 🔗 [Ver Projeto](https://github.com/akilessimiao/turismo-landing-page)
+
 ---
 
 ## 🧭 Perfil Comportamental (DISC)
@@ -161,7 +174,6 @@ Unir excelência técnica com visão de negócios para entregar soluções escal
 |-------|------|
 | 💼 LinkedIn | [linkedin.com/in/akilessimiao](https://linkedin.com/in/akilessimiao) |
 | 🌐 Portfólio | [akilessimiao.github.io/portifolio](https://akilessimiao.github.io/portifolio) |
-| 🏢 LDT NET TELECOM | [ldtnettelecom.com.br](https://tanquedigital.com.br) |
 | 🏢 Tanque Digital | [tanquedigital.com.br](https://tanquedigital.com.br) |
 | 📱 WhatsApp | [(84) 99455-4714](https://wa.me/5584994554714) |
 | ✉️ Email | ldtnettelecom@gmail.com |
@@ -175,5 +187,5 @@ Unir excelência técnica com visão de negócios para entregar soluções escal
 
 <!--
 💡 Dica: Para contribuir com algum projeto, abra uma issue ou envie um PR!
-🔄 Atualizado: Março/2026
+🔄 Atualizado: Junho/2026
 -->
